@@ -1,0 +1,6 @@
+Lab.
+	Refactor and Test FileImporterProcedural
+	Create Factory to pick correct file importer
+	Use Template Pattern to change behavior of different file imports
+	Refactor to use Strategy Pattern
+	
