@@ -20,8 +20,8 @@ namespace OOP_Training.FileImporter
                    var actor =  csv_reader.GetRecord<Actor>();
                    actor_repository.Save(actor);
                 }
-                
-                
+                return;
+
             }
             if (filename.EndsWith("xml"))
             {
@@ -32,6 +32,7 @@ namespace OOP_Training.FileImporter
                 {
                     actor_repository.Save(actor);
                 }
+                return;
 
             }
         } 
@@ -52,7 +53,8 @@ namespace OOP_Training.FileImporter
 
         public Actor Get(int id)
         {
-            return 0;
+            return null;
+            return null;
         }
     }
 }

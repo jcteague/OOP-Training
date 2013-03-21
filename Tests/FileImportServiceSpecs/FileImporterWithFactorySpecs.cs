@@ -7,6 +7,7 @@ using Ninject.MockingKernel.RhinoMock;
 using OOP_Training;
 using OOP_Training.FileImporter;
 using Rhino.Mocks;
+using System.Linq;
 
 namespace Tests.FileImportServiceSpecs
 {
@@ -51,7 +52,8 @@ namespace Tests.FileImportServiceSpecs
         public void should_save_records_from_file()
         {
             sut.ImportActors("file");
-            kernel.Get<IActorRepository>().Stub(x => x.Save(Arg<Actor>.Is.Anything)).Repeat.Twice();
+            kernel.Get<IActorRepository>().Stub(x => x.Save(actors.ToArray()[0])).Repeat.Once();
+            kernel.Get<IActorRepository>().Stub(x => x.Save(actors.ToArray()[1])).Repeat.Once();
         }
         
     }
