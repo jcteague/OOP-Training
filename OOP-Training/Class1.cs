@@ -6,6 +6,9 @@ using System.Threading.Tasks;
 
 namespace OOP_Training
 {
+    
+    public interface ISendMessages{}
+    public class SmsMessageSender : ISendMessages{}
     public class Class1
     {
     }
