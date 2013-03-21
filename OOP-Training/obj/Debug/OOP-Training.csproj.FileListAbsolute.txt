@@ -1,0 +1,8 @@
+C:\Code\OOP-Training\OOP-Training\bin\Debug\OOP-Training.dll
+C:\Code\OOP-Training\OOP-Training\bin\Debug\OOP-Training.pdb
+C:\Code\OOP-Training\OOP-Training\bin\Debug\CsvHelper.dll
+C:\Code\OOP-Training\OOP-Training\bin\Debug\CsvHelper.pdb
+C:\Code\OOP-Training\OOP-Training\bin\Debug\CsvHelper.xml
+C:\Code\OOP-Training\OOP-Training\obj\Debug\OOP-Training.csprojResolveAssemblyReference.cache
+C:\Code\OOP-Training\OOP-Training\obj\Debug\OOP-Training.dll
+C:\Code\OOP-Training\OOP-Training\obj\Debug\OOP-Training.pdb
