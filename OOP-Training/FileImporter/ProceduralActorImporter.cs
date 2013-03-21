@@ -40,6 +40,7 @@ namespace OOP_Training.FileImporter
     public interface IActorRepository
     {
         void Save(Actor actor);
+        Actor Get(int id);
     }
 
     public class ActorRepository : IActorRepository
@@ -47,6 +48,11 @@ namespace OOP_Training.FileImporter
         public void Save(Actor actor)
         {
             
+        }
+
+        public Actor Get(int id)
+        {
+            return 0;
         }
     }
 }
