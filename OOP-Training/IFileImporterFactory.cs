@@ -4,4 +4,11 @@
     {
         IActorFileImporter GetFileImporterFor(string filename);
     }
+    public class FileImporterFactory : IFileImporterFactory
+    {
+        public IActorFileImporter GetFileImporterFor(string filename)
+        {
+            throw new System.NotImplementedException();
+        }
+    }
 }
