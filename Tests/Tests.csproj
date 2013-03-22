@@ -60,9 +60,7 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
-    <Compile Include="Class1.cs" />
-    <Compile Include="Properties\AssemblyInfo.cs" />
-  </ItemGroup>
+    <Compile Include="InvoiceSpecificationSpecs.cs" />
     <Compile Include="FileImportServiceSpecs\FileImporterFactorySpecs.cs" />
     <Compile Include="FileImportServiceSpecs\FileImporterWithFactorySpecs.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />

@@ -54,7 +54,7 @@ namespace OOP_Training.FileImporter
         public Actor Get(int id)
         {
             return null;
-            return null;
+            
         }
     }
 }

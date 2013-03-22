@@ -7,7 +7,7 @@ namespace OOP_Training.ChainOfResponsibility
         private bool approved;
         public double Total { get; set; }
 
-        public static void Approved()
+        public  void Approved()
         {
             this.approved = true;
         }
@@ -27,7 +27,7 @@ namespace OOP_Training.ChainOfResponsibility
         {
             if (order.Total >= approved_amount)
             {
-                Order.Approved();
+                order.Approved();
             }
             else
             {
