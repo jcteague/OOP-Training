@@ -1,0 +1,20 @@
+C:\Documents and Settings\mahendra_mavani\Desktop\CodeCamp2008\CodeCamp2008.UnitTest\bin\Debug\CodeCamp2008.UnitTest.dll
+C:\Documents and Settings\mahendra_mavani\Desktop\CodeCamp2008\CodeCamp2008.UnitTest\bin\Debug\CodeCamp2008.UnitTest.pdb
+C:\Documents and Settings\mahendra_mavani\Desktop\CodeCamp2008\CodeCamp2008.UnitTest\bin\Debug\CodeCamp2008.exe
+C:\Documents and Settings\mahendra_mavani\Desktop\CodeCamp2008\CodeCamp2008.UnitTest\bin\Debug\nunit.framework.dll
+C:\Documents and Settings\mahendra_mavani\Desktop\CodeCamp2008\CodeCamp2008.UnitTest\bin\Debug\Rhino.Mocks.dll
+C:\Documents and Settings\mahendra_mavani\Desktop\CodeCamp2008\CodeCamp2008.UnitTest\bin\Debug\CodeCamp2008.pdb
+C:\Documents and Settings\mahendra_mavani\Desktop\CodeCamp2008\CodeCamp2008.UnitTest\bin\Debug\nunit.framework.xml
+C:\Documents and Settings\mahendra_mavani\Desktop\CodeCamp2008\CodeCamp2008.UnitTest\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\mahendra_mavani\Desktop\CodeCamp2008\CodeCamp2008.UnitTest\obj\Debug\CodeCamp2008.UnitTest.dll
+C:\Documents and Settings\mahendra_mavani\Desktop\CodeCamp2008\CodeCamp2008.UnitTest\obj\Debug\CodeCamp2008.UnitTest.pdb
+C:\Documents and Settings\John.JOHN-LAPTOP\My Documents\00 Next Level\presentations\Principles of Object Oriented Design\CodeCamp2008.UnitTest\bin\Debug\CodeCamp2008.UnitTest.dll
+C:\Documents and Settings\John.JOHN-LAPTOP\My Documents\00 Next Level\presentations\Principles of Object Oriented Design\CodeCamp2008.UnitTest\bin\Debug\CodeCamp2008.UnitTest.pdb
+C:\Documents and Settings\John.JOHN-LAPTOP\My Documents\00 Next Level\presentations\Principles of Object Oriented Design\CodeCamp2008.UnitTest\bin\Debug\CodeCamp2008.exe
+C:\Documents and Settings\John.JOHN-LAPTOP\My Documents\00 Next Level\presentations\Principles of Object Oriented Design\CodeCamp2008.UnitTest\bin\Debug\nunit.framework.dll
+C:\Documents and Settings\John.JOHN-LAPTOP\My Documents\00 Next Level\presentations\Principles of Object Oriented Design\CodeCamp2008.UnitTest\bin\Debug\Rhino.Mocks.dll
+C:\Documents and Settings\John.JOHN-LAPTOP\My Documents\00 Next Level\presentations\Principles of Object Oriented Design\CodeCamp2008.UnitTest\bin\Debug\CodeCamp2008.pdb
+C:\Documents and Settings\John.JOHN-LAPTOP\My Documents\00 Next Level\presentations\Principles of Object Oriented Design\CodeCamp2008.UnitTest\bin\Debug\nunit.framework.xml
+C:\Documents and Settings\John.JOHN-LAPTOP\My Documents\00 Next Level\presentations\Principles of Object Oriented Design\CodeCamp2008.UnitTest\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\John.JOHN-LAPTOP\My Documents\00 Next Level\presentations\Principles of Object Oriented Design\CodeCamp2008.UnitTest\obj\Debug\CodeCamp2008.UnitTest.dll
+C:\Documents and Settings\John.JOHN-LAPTOP\My Documents\00 Next Level\presentations\Principles of Object Oriented Design\CodeCamp2008.UnitTest\obj\Debug\CodeCamp2008.UnitTest.pdb

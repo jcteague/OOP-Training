@@ -1,0 +1,10 @@
+10	Previous Balance	1000
+10	Direct Deposit	5000
+10	Walmart	200
+10	Insurance Payment	300
+10	House Rent	1000
+20	Previous Balance	100
+20	Direct Deposit	4000
+20	Walmart	100
+20	Insurance Payment	500
+20	House Rent	900

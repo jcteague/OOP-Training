@@ -1,0 +1,6 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Assemblies Version="1073741836">
+  <Assembly Name="nunit.framework, Version=2.4.6.0, Culture=neutral, PublicKeyToken=96d09a1eb7f44a77" Image="26f607d4-bcd7-4539-a331-9160ec42ede7" Timestamp="633446699400000000" XmlDocIndexTimestamp="633651199326250000" />
+  <Assembly Name="Rhino.Mocks, Version=3.3.0.906, Culture=neutral, PublicKeyToken=0b3305902db7183f" Image="db894e32-dbdf-4d84-82c5-b1f656238a3f" Timestamp="633446699300000000" />
+  <Assembly Name="JetBrains.Annotations, Version=4.1.928.1, Culture=neutral, PublicKeyToken=1010a0d8d6380325" Image="c2466918-b638-421d-a783-7ce5e80b30b0" Timestamp="633548704560000000" XmlDocIndexTimestamp="633548704560000000" />
+</Assemblies>

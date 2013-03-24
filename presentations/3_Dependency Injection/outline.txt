@@ -1,0 +1,38 @@
+Inversion of Control
+Pain point of IoC
+	Ways to fix
+		Factories
+		Rolling your own
+	Advantages to using a Container
+
+Service Location
+Constructor Injection
+Setter Injection
+
+
+Features to look for
+Basic Setup
+	Provide implementation
+	Open Generic resolution
+	LifeTime management
+		Closing Implementations
+
+Command Pattern with IOC
+
+Decorator Pattern
+Profiles
+	environments
+	multi-tenant
+
+
+Using in Asp.net
+
+Using in MVC
+
+WCF
+
+NHibernate
+
+
+IOC Container landscape
+

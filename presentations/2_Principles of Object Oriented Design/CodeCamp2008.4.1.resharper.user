@@ -1,0 +1,124 @@
+<Configuration>
+  <SharedSolutionDisabledTemplatesManager>
+    <DisabledTemplates />
+  </SharedSolutionDisabledTemplatesManager>
+  <UnitTestRunner>
+    <CustomStartDirectory>
+    </CustomStartDirectory>
+    <UseShadowCopy>True</UseShadowCopy>
+    <UseCustomFolder>False</UseCustomFolder>
+    <EnableUnitTesting>True</EnableUnitTesting>
+    <Providers />
+  </UnitTestRunner>
+  <UserSolutionDisabledTemplatesManager>
+    <DisabledTemplates />
+  </UserSolutionDisabledTemplatesManager>
+  <FileStructureView>
+    <AutoScrollToSource>False</AutoScrollToSource>
+    <TrackCaretLocation>False</TrackCaretLocation>
+  </FileStructureView>
+  <ReFormatCode>
+    <ReorderMembers>True</ReorderMembers>
+    <OptimizeUsings>True</OptimizeUsings>
+    <RemoveRedundantThis>True</RemoveRedundantThis>
+    <ShortenReferences>True</ShortenReferences>
+  </ReFormatCode>
+  <NAntValidationSettings>
+    <NAntPath value="" />
+  </NAntValidationSettings>
+  <EditorManager>
+    <RecentFiles>
+      <File id="C0556EA7-0B28-4704-82E3-F6D7E9F5E594/d:SRP/f:Transaction.cs" caret="265" scrollPosition="0|0" />
+      <File id="C0556EA7-0B28-4704-82E3-F6D7E9F5E594/d:SRP/f:Transaction.txt" caret="220" scrollPosition="0|0" />
+      <File id="C0556EA7-0B28-4704-82E3-F6D7E9F5E594/d:SRP/f:BankAccount.cs" caret="2358" scrollPosition="0|0" />
+      <File id="C0556EA7-0B28-4704-82E3-F6D7E9F5E594/d:ISP/f:Door.cs" caret="722" scrollPosition="0|0" />
+      <File id="C0556EA7-0B28-4704-82E3-F6D7E9F5E594/f:Program.cs" caret="660" scrollPosition="0|17" />
+      <File id="C0556EA7-0B28-4704-82E3-F6D7E9F5E594/d:SRP/f:BankAccount_SRP.cs" caret="1077" scrollPosition="0|17" />
+      <File id="C0556EA7-0B28-4704-82E3-F6D7E9F5E594/d:ISP/f:Door_ISP.cs" caret="0" scrollPosition="0|0" />
+      <File id="7C4332EE-9AB4-46D0-AF09-E2B93CF8A21F/f:BankAccountTester.cs" caret="314" scrollPosition="0|0" />
+      <File id="C0556EA7-0B28-4704-82E3-F6D7E9F5E594/d:DIP/f:BankAccount_DIP.cs" caret="1078" scrollPosition="0|4" />
+    </RecentFiles>
+  </EditorManager>
+  <CompletionStatisticsManager>
+    <ItemStatistics item="Qualified:@System.Console">
+      <Item value="WriteLine" priority="5" />
+      <Item value="ReadLine" priority="3" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:@">
+      <Item value="WriteLine" priority="0" />
+      <Item value="ReadLine" priority="0" />
+      <Item value="EndOfStream" priority="0" />
+      <Item value="Split" priority="0" />
+      <Item value="Count" priority="0" />
+      <Item value="GetProductByCategory" priority="0" />
+      <Item value="Deposit" priority="0" />
+      <Item value="TimeOut" priority="0" />
+      <Item value="SendStatementToCustomer" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:@System.Environment">
+      <Item value="CurrentDirectory" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:@System.Double">
+      <Item value="Parse" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.Text.StringBuilder">
+      <Item value="Append" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.Collections.Generic.IList&lt;CodeCamp2008.SRP.Transaction&gt;">
+      <Item value="Count" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:T">
+      <Item value="Amount" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:Rhino.Mocks.MockRepository">
+      <Item value="DynamicMock" priority="0" />
+      <Item value="Record" priority="0" />
+      <Item value="Playback" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:CodeCamp2008.DIP.BankAccount_DIP">
+      <Item value="SendStatementToCustomer" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:CodeCamp2008.DIP.ITransactionRepository">
+      <Item value="GetTransactions" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:CodeCamp2008.DIP.IMailFormater">
+      <Item value="FormatTransactionRecords" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:CodeCamp2008.DIP.IEmailService">
+      <Item value="SendEmail" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Default">
+      <Item value="void" priority="0" />
+      <Item value="bool" priority="0" />
+      <Item value="ITimer" priority="0" />
+      <Item value="true" priority="0" />
+      <Item value="IDoor" priority="0" />
+      <Item value="ISecurityDoor" priority="0" />
+    </ItemStatistics>
+  </CompletionStatisticsManager>
+  <SettingsComponent>
+    <string />
+    <integer>
+      <setting name="UsedSolutionBuilderID">0</setting>
+    </integer>
+    <boolean>
+      <setting name="SolutionAnalysisEnabled">False</setting>
+    </boolean>
+  </SettingsComponent>
+  <RecentFiles>
+    <RecentFiles>
+      <File id="C0556EA7-0B28-4704-82E3-F6D7E9F5E594/d:SRP/f:BankAccount.cs" caret="2697" scrollPosition="3|7" />
+      <File id="C0556EA7-0B28-4704-82E3-F6D7E9F5E594/d:SRP/f:BankAccount_SRP.cs" caret="419" scrollPosition="0|0" />
+      <File id="C0556EA7-0B28-4704-82E3-F6D7E9F5E594/d:ISP/f:Door_ISP.cs" caret="92" scrollPosition="0|0" />
+      <File id="C0556EA7-0B28-4704-82E3-F6D7E9F5E594/d:ISP/f:Door.cs" caret="941" scrollPosition="0|26" />
+      <File id="C0556EA7-0B28-4704-82E3-F6D7E9F5E594/d:DIP/f:BankAccount_DIP.cs" caret="396" scrollPosition="0|0" />
+      <File id="7C4332EE-9AB4-46D0-AF09-E2B93CF8A21F/f:BankAccountTester.cs" caret="1225" scrollPosition="0|18" />
+    </RecentFiles>
+    <RecentEdits>
+      <File id="C0556EA7-0B28-4704-82E3-F6D7E9F5E594/d:DIP/f:BankAccount_DIP.cs" caret="554" scrollPosition="0|2" />
+      <File id="C0556EA7-0B28-4704-82E3-F6D7E9F5E594/d:ISP/f:Door.cs" caret="978" scrollPosition="0|26" />
+      <File id="C0556EA7-0B28-4704-82E3-F6D7E9F5E594/d:ISP/f:Door.cs" caret="961" scrollPosition="0|26" />
+      <File id="C0556EA7-0B28-4704-82E3-F6D7E9F5E594/d:ISP/f:Door.cs" caret="538" scrollPosition="0|26" />
+    </RecentEdits>
+  </RecentFiles>
+</Configuration>

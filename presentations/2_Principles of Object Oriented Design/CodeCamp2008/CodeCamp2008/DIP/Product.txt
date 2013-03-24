@@ -1,0 +1,5 @@
+﻿10	Laptop	Computer
+20	Desktop	Computer
+30	webcam	Computer
+40	camera	Electronic
+50	iPod	Electronic
