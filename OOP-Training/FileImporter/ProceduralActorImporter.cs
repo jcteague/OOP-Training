@@ -37,7 +37,12 @@ namespace OOP_Training.FileImporter
         } 
     }
 
-    public class ActorRepository
+    public interface IActorRepository
+    {
+        void Save(Actor actor);
+    }
+
+    public class ActorRepository : IActorRepository
     {
         public void Save(Actor actor)
         {
