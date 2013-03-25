@@ -42,6 +42,7 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="ChainOfResponsibility\CoRExample.cs" />
     <Compile Include="Class1.cs" />
     <Compile Include="FileImporter\Actors.cs" />
     <Compile Include="FileImporter\FileImporterWithFactory.cs" />
@@ -49,6 +50,8 @@
     <Compile Include="FileImporter\ProceduralActorImporter.cs" />
     <Compile Include="FileImporter\IFileImporterFactory.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="SpecificationPattern\Impl\ISpecification.cs" />
+    <Compile Include="SpecificationPattern\InvoiceSpecifications.cs" />
   </ItemGroup>
   <ItemGroup>
     <None Include="packages.config" />
